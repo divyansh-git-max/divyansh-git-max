@@ -6,7 +6,7 @@ About Me⚡
 - 🎓 I'm passionate about Web Dev, App Dev, Machine Learning & I enjoy learning new things.
 - 👨‍💻 I'm also an open-source enthusiast. I love how collaboration and knowledge sharing happened through an open-source.
 - 🌱 I’m currently learning Full Stack Development.
-- 👯 I’m looking to collaborate on any Open Source Projects.
+- 👯 I’m looking to collaborate on Open Source Projects.
 
 
 
