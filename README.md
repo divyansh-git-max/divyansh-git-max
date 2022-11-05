@@ -2,7 +2,7 @@
 
 About Me⚡
 
-- 😄 Hi, I'm Divyansh, a passionate programmer. I'm currently pursuing BS degree in Applications and Data Science.
+- 😄 Hi, I'm Divyansh, a passionate programmer. I'm currently a data science student.
 - 🎓 I'm passionate about Web Dev, App Dev, Machine Learning & I enjoy learning new things.
 - 👨‍💻 I'm also an open-source enthusiast. I love how collaboration and knowledge sharing happened through an open-source.
 - 🌱 I’m currently learning Full Stack Development.
