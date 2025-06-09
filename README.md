@@ -4,9 +4,9 @@ About Me⚡
 
 - 😄 Hi, I'm Divyansh, a passionate programmer. I'm currently a data science student.
 - 🎓 I'm passionate about Web Dev, App Dev, Machine Learning & I enjoy learning new things.
+- 🔭 I’m currently working on Integration of AI based Chatbot into the Website for one of my Clients.
 - 👨‍💻 I'm also an open-source enthusiast. I love how collaboration and knowledge sharing happened through an open-source.
-- 🌱 I’m currently learning Full Stack Development.
-- 👯 I’m looking to collaborate on Open Source Projects.
+- 🌱 I’m currently learning TypeScript and Angular.
 
 
 
