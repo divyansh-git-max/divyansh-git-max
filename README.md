@@ -33,4 +33,4 @@
 - 🎓 I'm passionate about **Web Dev, App Dev, & Machine Learning** and I enjoy learning new things.
 - 🔭 I’m currently working on the **Integration of an AI-based Chatbot** into a website for a client.
 - 👨‍💻 I'm also an **open-source enthusiast**. I love how collaboration and knowledge sharing happen through open-source.
-- 🌱 I've worked with **TypeScript, React, Vue, React Native, LangChain, and LangGraph**.
+- 🌱 I've worked in **TypeScript, React, Vue, React Native, LangChain, and LangGraph**.
